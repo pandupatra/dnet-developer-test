@@ -13,8 +13,8 @@ Test BE-FE developer D~Net
 
 -Jalankan XAMPP dan kemudian aplikasi dapat dijalankan di localhost
 
-* Fitur
+Fitur :
 - Insert data penjualan serta data pelanggan kedalam tabel
 
-* Minus
+Minus :
 - Tabel price belum bisa ditampilkan
