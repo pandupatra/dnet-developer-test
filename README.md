@@ -7,11 +7,12 @@ Test BE-FE developer D~Net
 ## Installation
 [Download Zip](https://codeload.github.com/pandupatra/dnet-developer-test/zip/master)
 
--Pindahkan folder yang didalam zip ke direktori \xampp\htdocs
+-Pindahkan folder didalam zip ke direktori \xampp\htdocs
+
+-Jalankan Apache dan mySQL di XAMPP dan kemudian aplikasi dapat dijalankan di localhost
 
 -Import file purchase.sql kedalam phpmyadmin
 
--Jalankan XAMPP dan kemudian aplikasi dapat dijalankan di localhost
 
 Fitur :
 - Insert data penjualan serta data pelanggan kedalam tabel
